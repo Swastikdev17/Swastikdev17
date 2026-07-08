@@ -9,4 +9,4 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## 📊 GitHub Stats
-![Swastik's GitHub Stats](https://github-readme-stats-phi-lac-50.vercel.app/api?username=Swastikdev17&show_icons=true&theme=tokyonight)
+![Swastik's GitHub Stats](https://github-readme-stats-phi-lac-50.vercel.app/api?username=Swastikdev17&show_icons=true&theme=tokyonight&icon_color=79dbca&border_radius=10&border_color=30363d)
