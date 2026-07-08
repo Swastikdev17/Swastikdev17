@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Swastik&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Swastik+Pandey&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Gamer%20|%20Anime%20Fan&descAlignY=55&descSize=18)
 ## Hi there 👋 I'm Swastik
  
 💻 Currently learning C  
