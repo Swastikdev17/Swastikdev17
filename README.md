@@ -3,6 +3,7 @@
 ## Hi there 👋 I'm Swastik
 
 🎓 Student at SOIT, RGPV Bhopal | CSEDS (Computer Science & Data Science)
+
 💻 Currently learning C  
 🚀 Interested in AI/ML  
 🎮 Gamer | Anime fan
