@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I'm Swastik
 
-🎓 Student at SOIT, MBU Bhopal | CSEDS (Computer Science & Data Science)
+🎓 Student at SOIT, MBUTS Bhopal | CSEDS (Computer Science & Data Science)
 
 💻 Currently learning C  
 🚀 Interested in AI/ML  
